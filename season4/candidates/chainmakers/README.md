@@ -2,6 +2,8 @@
 
 We managed to stay notaries for EU and NA, and now we're running for a third node in SH!
 
+SH: `RCMSHLNQe7aZEQxGaBLPqASFFKcCF3qPMZ`
+
 ### Chainmakers?
 
 - Incorporated in Puerto Rico
@@ -10,10 +12,15 @@ We managed to stay notaries for EU and NA, and now we're running for a third nod
 - Joined HyperDEX development
 - Testing MarketMaker 2.0, we are pioneering on MM2 testing and setup
 - Rust library - https://github.com/jorian/komodorpc-rust-client 
-- Airdrop tool - https://github.com/chainmakers/airdrop 
+- Airdrop and Snapshot tool for Komodo Smartchains - https://github.com/chainmakers/airdrop 
 - Scripts for automating installs - https://github.com/chainmakers/chainmaker
 
 ### What is our plan for this season?
 - Focus on clients
-  - 2 new clients underway!
-- Help develop HyperDEX
+  - 2 new clients (and thus Komodo tech usage) underway!
+- Test new Komodo technology
+  - Release and test asset-pegged chains, such as KGOLD
+- Help the development and continuation of HyperDEX
+- Cure Corona disease
+
+SH: `RCMSHLNQe7aZEQxGaBLPqASFFKcCF3qPMZ`

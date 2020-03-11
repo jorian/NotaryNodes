@@ -26,11 +26,10 @@ In the long run (pending price behaviour of the crypto markets and pending any d
   - Stable currencies - lending of KMD and other stable assets, such as Gold, Silver or other stocks
   - AssetsCC - a place to trade tokens created on specified Komodo Smart chains
 
-## People involved
+## People involved with developing HyperDEX
 - HyperDEX
 - jorian
 - siu
-- particle4dev
 - Mylo
 - pixelshove
 
@@ -38,6 +37,3 @@ Want to get involved? [Join the HyperDEX discord!](https://discord.gg/Bxg8fcy)
 
 ## Credits
 Credits go to lukechilds and sindresorhus for developing HyperDEX initially. Also HyperDEX for making the application open source and accessible for the Komodo community.
-
-
-
